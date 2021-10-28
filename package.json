@@ -1,0 +1,33 @@
+{
+  "name": "mechnicki",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^10.2.2",
+    "@theme-ui/core": "^0.8.4",
+    "@theme-ui/mdx": "^0.9.1",
+    "@theme-ui/presets": "^0.8.4",
+    "@theme-ui/typography": "^0.11.3",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "lodash": "^4.17.21",
+    "lodash.merge": "^4.6.2",
+    "next": "10.2.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.7.0",
+    "next-mdx-enhanced": "^5.0.0",
+    "path": "^0.12.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "theme-ui": "^0.8.4",
+    "typography-theme-lawton": "^0.16.19",
+    "typography-theme-wordpress-2016": "^0.16.19"
+  }
+}
