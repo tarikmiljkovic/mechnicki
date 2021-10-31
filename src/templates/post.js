@@ -19,15 +19,13 @@ export default function Post({ children, frontMatter }) {
   });
 
   return (
-    <main>
+    <main sx={{ paddingTop: 2 }}>
       <Nav />
       <Container px={4}>
         <div>{children}</div>
 
         <Link href="/">
-          <a sx={{ variant: "links.primary" }}>
-            Zurück auf der Hauptseite
-          </a>
+          <a sx={{ variant: "links.primary" }}>Zurück auf der Hauptseite</a>
         </Link>
       </Container>
     </main>

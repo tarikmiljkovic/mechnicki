@@ -1,8 +1,6 @@
 /** @jsxImportSource theme-ui */
 
 import Link from 'next/link'
-// import Image from 'next/image'
-
 import { Image } from "theme-ui";
 
 export default function Logo() {

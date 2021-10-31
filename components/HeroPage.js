@@ -44,7 +44,6 @@ export default function HeroPage() {
         minWidth: "100%",
         width: "100%",
 
-
         // backgroundAttachment: "fixed",
       }}
     >
@@ -65,10 +64,10 @@ export default function HeroPage() {
         }}
       ></Box>
 
-      <Box sx={{ position: "relative" }} zIndices={50}>
+      <Box sx={{ position: "relative", paddingTop: 2 }} zIndices={50}>
         <Nav />
-        <Container sx={{ px: [4, 4, 4] }}>
-          <Heading as="h1" variant="heading">
+        <Container sx={{ px: [4, 4, 4], paddingTop: 5 }}>
+          <Heading as="h1" variant="heading" sx={{ backgroundColor: "blue" }}>
             {/* LOGISTIKUNTERNEHMEN MECHNICKI: */}
             Aus Herausforderungen werden Chancen
             {/* ZUVERLÄSSIGE CONTAINERLOGISTIK */}

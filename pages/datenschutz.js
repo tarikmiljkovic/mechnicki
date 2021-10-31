@@ -40,13 +40,11 @@ export default function Datenschutz() {
   });
 
   return (
-    <Box>
+    <Box sx={{ paddingTop: 2 }}>
       <Nav />
       <Container sx={{ px: [4, 4, 4] }}>
         <h1 sx={{ variant: "styles.text.postheading" }}>Datenschutz</h1>
-        <h2 variant="subheading">
-          Datenschutz auf einen Blick.
-        </h2>
+        <h2 variant="subheading">Datenschutz auf einen Blick.</h2>
         <Paragraph sx={{ variant: "styles.text.textbody" }}>
           Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen
           Überblick darüber, was mit Ihren personenbezogenen Daten passiert,

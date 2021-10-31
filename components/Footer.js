@@ -7,7 +7,6 @@ import Link from "next/link";
 
 import {
   Link as ThemeLink,
-  NavLink,
   Box,
 } from "theme-ui";
 

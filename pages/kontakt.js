@@ -47,13 +47,11 @@ export default function Kontakt() {
 
   primaryNav = false;
   return (
-    <Box>
+    <Box sx={{ paddingTop: 2 }}>
       <Nav />
       <Container sx={{ px: [4, 4, 4] }}>
         <h1 sx={{ variant: "styles.text.postheading" }}>Kontakt</h1>
-        <h2>
-          Hier haben Sie möglichkeit uns zu erreichen.
-        </h2>
+        <h2>Hier haben Sie möglichkeit uns zu erreichen.</h2>
         <Text sx={{ variant: "styles.text.textbody" }}>
           Glockenstraße <br />
           32107 Bad Salzuflen <br />

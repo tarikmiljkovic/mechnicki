@@ -80,7 +80,6 @@ const theme = {
       // mt: [50, 100],
       // borderRadius: 2,
       // p: 3,
-      pt: 5,
       color: "white",
       fontWeight: "700",
     },
