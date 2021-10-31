@@ -30,9 +30,9 @@ const theme = {
   },
 
   colors: {
-    text: "#0B2867",
+    text: "#0b275b",
     background: "#fff",
-    primary: "#0B2867",
+    primary: "#0b275b",
   },
 
   //edit
