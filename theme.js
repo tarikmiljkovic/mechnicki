@@ -80,6 +80,9 @@ const theme = {
       // mt: [50, 100],
       // borderRadius: 2,
       // p: 3,
+      display: "inline-block",
+      p: 2,
+      backgroundColor: "primary",
       color: "white",
       fontWeight: "700",
     },
@@ -115,7 +118,6 @@ const theme = {
       },
     },
     secondary: {
-
       color: "white",
       "&:hover": {
         cursor: "pointer",

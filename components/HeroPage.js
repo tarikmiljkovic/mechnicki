@@ -56,9 +56,9 @@ export default function HeroPage() {
           width: "100%",
           minWidth: "100%",
           verticalAlign: "middle",
-          backgroundColor: "rgba(9, 17, 49, 0.30)",
-          // background:
-          //   "linear-gradient(to top, rgba(0, 0, 0, 0.75), transparent)",
+          // backgroundColor: "rgba(9, 17, 49, 0.20)",
+          background:
+            "linear-gradient(to bottom, rgba(9, 17, 49, 0.95), transparent)",
           objectFit: "cover",
           objectPosition: "top center",
         }}
@@ -67,7 +67,7 @@ export default function HeroPage() {
       <Box sx={{ position: "relative", paddingTop: 2 }} zIndices={50}>
         <Nav />
         <Container sx={{ px: [4, 4, 4], paddingTop: 5 }}>
-          <Heading as="h1" variant="heading" sx={{ backgroundColor: "blue" }}>
+          <Heading as="h1" variant="heading" >
             {/* LOGISTIKUNTERNEHMEN MECHNICKI: */}
             Aus Herausforderungen werden Chancen
             {/* ZUVERLÄSSIGE CONTAINERLOGISTIK */}
