@@ -36,13 +36,14 @@ export default function HeroPage() {
         mb: 0,
         position: "relative",
         verticalAlign: "middle",
-        backgroundImage: `url(${"static/imgs/8.png"})`,
-        objectFit: "cover",
+        backgroundImage: `url(${"static/imgs/10.jpg"})`,
+        backgroundSize: "cover",
         objectPosition: "top center",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         minWidth: "100%",
         width: "100%",
+
 
         // backgroundAttachment: "fixed",
       }}
@@ -56,7 +57,7 @@ export default function HeroPage() {
           width: "100%",
           minWidth: "100%",
           verticalAlign: "middle",
-          backgroundColor: "rgba(9, 17, 49, 0.90)",
+          backgroundColor: "rgba(9, 17, 49, 0.30)",
           // background:
           //   "linear-gradient(to top, rgba(0, 0, 0, 0.75), transparent)",
           objectFit: "cover",
@@ -66,7 +67,7 @@ export default function HeroPage() {
 
       <Box sx={{ position: "relative" }} zIndices={50}>
         <Nav />
-        <Container sx={{ px: [3, 4, 4] }}>
+        <Container sx={{ px: [4, 4, 4] }}>
           <Heading as="h1" variant="heading">
             {/* LOGISTIKUNTERNEHMEN MECHNICKI: */}
             Aus Herausforderungen werden Chancen

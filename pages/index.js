@@ -51,12 +51,12 @@ export default function Home({ leistungen }) {
   return (
     <>
       <Container sx={{ minWidth: "100%" }}>
-        <HeroPage/>
+        <HeroPage />
         <Container sx={{ px: [4, 4, 4] }}>
           {/* <Feature /> */}
           <News leistungen={leistungen} />
           <Service leistungen={leistungen} />
-          
+
           <Footer />
         </Container>
       </Container>
