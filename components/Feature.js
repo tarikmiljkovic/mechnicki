@@ -34,7 +34,7 @@ export default function Feature() {
       <Box bg="primary">
         <AspectImage
           ratio={4 / 3}
-          src="static/meeting.jpg"
+          src="/meeting.jpg"
           sx={{
             position: "absolute",
             top: "50%",

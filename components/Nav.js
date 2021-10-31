@@ -16,7 +16,7 @@ import {
   Flex,
   MenuButton,
 } from "theme-ui";
-import Logo from './Logo'
+
 
 var menu = [
   {
@@ -61,7 +61,7 @@ export default function Nav() {
                     }}
                   >
                     <Image
-                      src={`${primaryNav == true ? `/logo-secondary.svg` : `/logo.svg`}`}
+                      src={`${primaryNav == true ? `/logos/logo-secondary.svg` : `/logos/logo.svg`}`}
                       variant="avatar"
                       sx={{ height: ["60px", "60px", "60px"] }}
                     />

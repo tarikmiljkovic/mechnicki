@@ -32,8 +32,8 @@ class MyDocument extends Document {
             property="og:description"
             content="Emil Mechnicki Transporte München"
           />
-          <meta property="og:image" content="./static/maci.JPG" key="ogimage" />
-          <meta property="og:image" content="static/maci.JPG" key="ogimage" />
+          <meta property="og:image" content="./maci.JPG" key="ogimage" />
+          <meta property="og:image" content="/maci.JPG" key="ogimage" />
           <meta property="og:url" content="http://mechnicki.de" />
 
           {/* <link rel="icon" href="favicon.ico" />
