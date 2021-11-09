@@ -77,7 +77,7 @@ var services = [
     ),
   },
   {
-    name: "Import-Export",
+    name: "Gefahrgut Transporte",
     desc: " ",
     icon: (
       <MdImportExport
@@ -91,7 +91,7 @@ var services = [
     ),
   },
   {
-    name: "100% Befriedigung",
+    name: "100% Zufriedenheit",
     desc: " ",
     icon: (
       <MdDoneAll
@@ -105,7 +105,7 @@ var services = [
     ),
   },
   {
-    name: "100% Sicherung",
+    name: "100% Sicherheit",
     desc: " ",
     icon: (
       <MdLock
@@ -133,7 +133,7 @@ var services = [
   //   ),
   // },
   {
-    name: "FTL/LTL – Teil- und Komplettladungen",
+    name: "FTL/LTL Teil- und Komplettladungen",
     desc: " ",
     icon: (
       <MdLayers
@@ -147,7 +147,7 @@ var services = [
     ),
   },
   {
-    name: "alles umfassend",
+    name: "Sonderfahrten",
     desc: " ",
     icon: (
       <MdAllInclusive

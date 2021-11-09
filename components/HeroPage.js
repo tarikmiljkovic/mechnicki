@@ -67,7 +67,7 @@ export default function HeroPage() {
       <Box sx={{ position: "relative", paddingTop: 2 }} zIndices={50}>
         <Nav />
         <Container sx={{ px: [4, 4, 4], paddingTop: 5 }}>
-          <Heading as="h1" variant="heading" >
+          <Heading as="h1" variant="heading">
             {/* LOGISTIKUNTERNEHMEN MECHNICKI: */}
             Aus Herausforderungen werden Chancen
             {/* ZUVERLÄSSIGE CONTAINERLOGISTIK */}
@@ -81,14 +81,12 @@ export default function HeroPage() {
             //   variant: "styles.text.leistungenubheading",
             // }}
           >
-            Europaweite Truck-Containertransporte temperaturgeführte Transporte
-            und GDP-Zertifizierung Gefahrgut- und genehmigungspflichtige
-            Abfalltransporte
+            Deutschlandweite Transportdienstleistungen
           </Heading>
 
           <Link href="/wir/warum-wir">
             <a sx={{ variant: "links.secondary" }} variant="links.secondary">
-              Weiter Informationen
+              Weitere Informationen
             </a>
           </Link>
         </Container>

@@ -56,12 +56,11 @@ export default function Kontakt() {
           Mehr über uns
         </h2> */}
         <Paragraph sx={{ variant: "styles.text.textbody" }}>
-          Wir agieren über die Grenzen Bayerns und Deutschlands hinaus, sind
-          auch in Europa vielseitiger Komplettanbieter für Transport, Logistik
-          und auch Warenwirtschaft. Durch diese Vielfalt, gepaart mit der
-          Erfahrung in unserem mittelständischen Familienunternehmen, bieten wir
-          unseren Kunden wahre Mehrwerte wie Flexibilität, Zuverlässigkeit und
-          Sicherheit.
+          Wir agieren über die Grenzen Nordrhein Westfalens hinaus und sind auch
+          deutschlandweit vielseitiger Komplettanbieter für Ihren Transport.
+          Durch diese Vielfalt, gepaart mit der Erfahrung in unserem
+          Unternehmen, bieten wir Ihnen Mehrwert wie Flexibilität,
+          Zuverlässigkeit und Sicherheit.
         </Paragraph>
 
         {/* <h2

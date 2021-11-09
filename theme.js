@@ -155,6 +155,7 @@ const theme = {
       fontWeight: "heading",
       fontSize: 4,
       margin: 0,
+
     },
     h3: {
       color: "text",

@@ -65,12 +65,12 @@ export default function News({ leistungen }) {
 
   return (
     <div>
-      <h2>Neuigkeiten</h2>
+      {/* <h2>Neuigkeiten</h2> */}
 
       <Grid
         gap={4}
         sx={{
-
+          pt: 36,
           gridTemplateColumns: [
             "1fr", // small
             "1fr 1fr", // medium
