@@ -55,7 +55,6 @@ export default function Kontakt() {
         <Text sx={{ variant: "styles.text.textbody" }}>
           Glockenstr. 10 <br />
           32107 Bad Salzuflen <br />
-          Deutschland <br />
           <br />
           <div>
             tel:{" "}
