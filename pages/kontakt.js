@@ -75,12 +75,23 @@ export default function Kontakt() {
           {/* </div> */}
           <div>
             mail:{" "}
-            <Link href="mailto:office@mechanicki.de">
+            <Link href="mailto:info@emtransporte.de">
               <a
-                href="mailto:office@mechanicki.de"
+                href="mailto:info@em-transporte.de"
                 sx={{ variant: "styles.navlink" }}
               >
-                office@mechanicki.de
+                info@emtransporte.de
+              </a>
+            </Link>
+          </div>
+          <div>
+            mail:{" "}
+            <Link href="mailto:machnicki@emtransport.de">
+              <a
+                href="mailto:machnicki@emtransport.de"
+                sx={{ variant: "styles.navlink" }}
+              >
+                machnicki@emtransport.de
               </a>
             </Link>
           </div>

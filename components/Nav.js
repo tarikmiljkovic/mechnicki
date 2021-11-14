@@ -19,8 +19,8 @@ import {
 
 var menu = [
   {
-    item: "Das Unternehmen",
-    link: "/unternehmen",
+    item: "Über uns",
+    link: "/ueber-uns",
   },
   {
     item: "Datenschutz",

@@ -9,12 +9,18 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>Mechnicki Transporte München</title>
-          <meta name="description" content="Emil Mechnicki Transporte München" />
+          <title>Emil Machnicki Transporte</title>
+          <meta
+            name="description"
+            content="Emil Machnicki Transporte"
+          />
           <meta name="author" content="miljkovic.at" />
 
-          <meta property="og:url" content="https://mechnicki.de" />
-          <meta property="og:site_name" content="Emil Mechnicki Transporte München" />
+          <meta property="og:url" content="https://www.em-transporte.de/" />
+          <meta
+            property="og:site_name"
+            content="Emil Machnicki Transporte"
+          />
           <meta
             name="keywords"
             content="transport transporte münchen munich deutschland germany lkw fahrer fahren"
@@ -22,19 +28,31 @@ class MyDocument extends Document {
 
           <meta property="og:locale" content="de_DE" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Emil Mechnicki Transporte München" />
-          <meta name="twitter:card" content="Emil Mechnicki Transporte München" />
-          <meta name="twitter:title" content="Emil Mechnicki Transporte München" />
+          <meta
+            property="og:title"
+            content="Emil Machnicki Transporte"
+          />
+          <meta
+            name="twitter:card"
+            content="Emil Machnicki Transporte"
+          />
+          <meta
+            name="twitter:title"
+            content="Emil Machnicki Transporte"
+          />
 
-          <meta property="og:title" content="Mechnicki Transporte München" />
-          <meta property="og:site_name" content="Mechnicki Transporte München" />
+          <meta property="og:title" content="Emil Machnicki Transporte München" />
+          <meta
+            property="og:site_name"
+            content="Emil Machnicki Transporte München"
+          />
           <meta
             property="og:description"
-            content="Emil Mechnicki Transporte München"
+            content="Emil Machnicki Transporte"
           />
           <meta property="og:image" content="./maci.JPG" key="ogimage" />
           <meta property="og:image" content="/maci.JPG" key="ogimage" />
-          <meta property="og:url" content="http://mechnicki.de" />
+          <meta property="og:url" content="https://www.em-transporte.de/" />
 
           {/* <link rel="icon" href="favicon.ico" />
 

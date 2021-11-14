@@ -12,10 +12,9 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider theme={theme}>
       <div>
         <Head>
-          <title>Mechnicki Transporte München</title>
+          <title>Emil Machnicki Transporte</title>
         </Head>
         <MainProvider>
-          
           <Component {...pageProps} />
         </MainProvider>
       </div>
