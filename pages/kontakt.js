@@ -72,17 +72,7 @@ export default function Kontakt() {
           {/*     </a> */}
           {/*   </Link> */}
           {/* </div> */}
-          <div>
-            mail:{" "}
-            <Link href="mailto:info@emtransporte.de">
-              <a
-                href="mailto:info@em-transporte.de"
-                sx={{ variant: "styles.navlink" }}
-              >
-                info@emtransporte.de
-              </a>
-            </Link>
-          </div>
+
           <div>
             mail:{" "}
             <Link href="mailto:machnicki@emtransport.de">
